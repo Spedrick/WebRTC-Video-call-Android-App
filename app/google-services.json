@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759197931618",
+    "project_id": "video-call-app-ac61c",
+    "storage_bucket": "video-call-app-ac61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759197931618:android:0031a9cd7566e967c8d93b",
+        "android_client_info": {
+          "package_name": "com.yuvraj.videocallwebrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759197931618-54tg8dpq8cof2sd1npu8f4dudounqvm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcU7exCvB7_mMQnzohCeO_g0YSAnym8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759197931618-54tg8dpq8cof2sd1npu8f4dudounqvm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
