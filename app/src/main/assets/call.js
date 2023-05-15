@@ -15,6 +15,10 @@ function init(userId) {
         path: '/videocallapp'
     })
 
+    peer.on('open', () => {
+            Android.onPeerConnected()
+        })
+
     listen()
 }
 
